@@ -1,9 +1,5 @@
 {
   "packageRules":[
-          {
-      "matchCurrentAge": " > 2 years",
-      "groupName": "old"
-    },
     {
       "matchCurrentAge": "< 2 years",
       "groupName": "latest"
