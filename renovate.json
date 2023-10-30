@@ -7,13 +7,7 @@
     {
       "matchCurrentAge": "< 2 years",
       "groupName": "latest"
-    },
-     {
-        "sourceUrlPrefixes": [
-          "https://github.com/nfarina/xmldoc"
-        ],
-        "allowedVersions": "<1.3.0"
-      }
+    }
   ],
   "prHourlyLimit": 99
 }
